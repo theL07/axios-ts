@@ -1,0 +1,20 @@
+{
+  "name": "axios-ts",
+  "version": "1.0.0",
+  "description": "aixos method by typescript",
+  "main": "index.js",
+  "repository": "git@github.com:theL07/axios-ts.git",
+  "author": "theL07",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "qs": "^6.10.5"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.7"
+  }
+}
